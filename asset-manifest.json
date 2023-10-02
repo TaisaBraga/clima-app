@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/clima-app/static/css/main.a240c550.css",
+    "main.js": "/clima-app/static/js/main.54321c81.js",
+    "static/js/787.5069251b.chunk.js": "/clima-app/static/js/787.5069251b.chunk.js",
+    "static/media/clearWeatherNight.jpg": "/clima-app/static/media/clearWeatherNight.9288162757c14911b6ad.jpg",
+    "static/media/rainyWeatherNight.jpg": "/clima-app/static/media/rainyWeatherNight.9790d37c761093da62db.jpg",
+    "static/media/defaultImage.jpg": "/clima-app/static/media/defaultImage.fbba93ca2241780ec8ba.jpg",
+    "static/media/cloudyWeatherNight.jpg": "/clima-app/static/media/cloudyWeatherNight.c182111e3b43bc09c3d7.jpg",
+    "static/media/rainyWeather.jpg": "/clima-app/static/media/rainyWeather.4691612d332c5995740a.jpg",
+    "static/media/cloudyWeather.jpg": "/clima-app/static/media/cloudyWeather.1c361387b5c29a93e8a9.jpg",
+    "static/media/clearWeather.jpg": "/clima-app/static/media/clearWeather.d3ca8c364a2b8741c243.jpg",
+    "index.html": "/clima-app/index.html",
+    "main.a240c550.css.map": "/clima-app/static/css/main.a240c550.css.map",
+    "main.54321c81.js.map": "/clima-app/static/js/main.54321c81.js.map",
+    "787.5069251b.chunk.js.map": "/clima-app/static/js/787.5069251b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a240c550.css",
+    "static/js/main.54321c81.js"
+  ]
+}
