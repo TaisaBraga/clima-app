@@ -2,6 +2,8 @@
 
 Este projeto foi criado para um projeto da faculdade, o objetivo é exibir a previsão do tempo da cidade, digitada pelo usuário, e alterar o plano de fundo de acordo com o a previsão. 
 
+*  Clique no link para acessar a página deste projeto: <https://taisabraga.github.io/clima-app/>
+
 ## Visão Geral
 
 ![alt](public/HomePage.jpeg)
